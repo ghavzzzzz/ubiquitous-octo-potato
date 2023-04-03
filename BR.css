@@ -1,0 +1,43 @@
+.pot{
+
+    background-color: rgb(187, 230, 255);
+}
+.el{
+
+    font-size:30px;
+}
+.B{
+
+    font-size:20px;
+    margin-top:30px;
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    background-color:rgb(25, 0, 255);
+    font-size: 30px;
+    color: rgb(115, 210, 253);
+}
+.Od{
+
+    font-size: 30px;
+    background-color: rgb(0, 247, 255);
+    color: black;
+    width: 400px;
+    border-radius: 10px;
+
+}
+.s{
+
+margin-top: 20px;
+font-size: 30px;
+background-color:rgb(177, 160, 255);
+border-radius: 10px;
+color:black;
+width: 1000px;
+}
+canvas{
+
+    box-shadow: 10px 10px 10px rgb(48, 32, 85);
+    border-radius: 50px;
+}
+
